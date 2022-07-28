@@ -1,4 +1,4 @@
-[![MasterHead](https://i0.wp.com/webcodeflow.com/wp-content/uploads/2021/04/Pixel-Banner.gif?fit=540%2C246&ssl=1)](https://rishavchanda.io)
+[![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Adrish Bhattacharya</h1>
 <h3 align="center">A passionate Coder and ML Enthusiast From India</h3>
